@@ -17,3 +17,4 @@ Sou Carioca,Resido no RJ, sempre fui da área de TI e Ilustraçao.
  
 ##
  
+ ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
