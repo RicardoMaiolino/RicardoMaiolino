@@ -1,5 +1,6 @@
-## Oi ✌,  Me Chamo Ricardo Maiolino...
-Sou Carioca,Resido no RJ, sempre fui da área de TI e Ilustraçao.
+<h1>Oi ✌,  Me Chamo Ricardo Maiolino...</h1>
+   <h2> -----Junior Devoloper in training----- </h2>
+<h3> Programa Alura+Oracle e Hiring Coders #3 </h3>
 
 <div align="center">
  
